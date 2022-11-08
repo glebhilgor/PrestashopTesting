@@ -9,7 +9,7 @@ Used specs
 
 Checklist
 
-1. Addres 
+1. Address
 - create address
 - delete address
 
