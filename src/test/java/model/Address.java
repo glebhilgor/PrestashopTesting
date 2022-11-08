@@ -15,7 +15,7 @@ public class Address {
     private String city = "Minsk";
     private String country = "Украина";
     private String homePhone = "111";
-    private String state = "Автономная Республика Крым";
+    private String state = "Крым";
     private String addressTitle = "Minsk";
     private String zipFalse= "12345678";
 
