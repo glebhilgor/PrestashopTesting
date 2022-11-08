@@ -28,7 +28,7 @@ public class ChangeCurrencyPageTest extends BaseTest{
 
 
     @Test
-    public void changeTheLanguageOnTheWebsiteTest(){
+    public void changeTheCurrencyOnTheWebsiteTest(){
         myAccountService.changeTheCurrencyOnTheWebsite();
         String actualCurrencyName= myAccountService.getTitleCurrencyOnTheSite();
         String expectedCurrencyName= "EUR";

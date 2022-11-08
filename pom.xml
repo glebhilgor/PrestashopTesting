@@ -10,7 +10,7 @@
 
     <name>Prestashop</name>
     <!-- FIXME change it to the project's website -->
-    <url>http://www.example.com</url>
+    <url>http://prestashop.qatestlab.com.ua/ru/</url>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
